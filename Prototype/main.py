@@ -1,4 +1,4 @@
-import time, random
+import time
 from Data import nearby_countries
 
 TOTAL_COUNTRIES = 21
